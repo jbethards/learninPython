@@ -1,3 +1,7 @@
 venv
+../.idea
 .idea
 apiPractice/__pychache__
+EplApp/__pychache__
+
+EplApp/keys.py
